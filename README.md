@@ -1,21 +1,37 @@
 # 🌟 Hey there, I'm **Anshuman Pati** 
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;AI+%26+Computer+Vision+Enthusiast;Building+the+Future+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;AI+%26+Computer+Vision+Enthusiast;Building+Digital+Experiences+%E2%9C%A8;Crafting+Tomorrow%27s+Web+Today+%F0%9F%8C%90)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
----
+
+<table width="100%">
+<tr>
+<td width="60%">
 
 ## 🎭 **The Developer Behind the Code**
 
-> *"Crafting digital experiences that blend elegance with functionality"*
+> "Transforming ideas into elegant digital solutions, one line of code at a time"
+> 
 
-🌍 **Location:** Banglore, Karnataka  
-💼 **Currently:** BE ISE student @ DSCE'28  
-🎯 **Focus:** Building scalable web applications and AI-powered solutions  
+🌍 **Location:** Banglore, Karnataka
+
+💼 **Currently:** BE ISE student @ DSCE'28
+
+🎯 **Focus:** Full-stack development & AI-powered solutions
+
 📧 **Reach me:** anshu799pati@gmail.com
+
+🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/anshuman-pati-5575bb34a/)
+
+</td>
+<td width="40%" align="center">
+<img alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</td>
+</tr>
+</table>
 
 ---
 
