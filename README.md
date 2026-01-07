@@ -1,141 +1,110 @@
-# 🌟 Hey there, I'm **Anshuman Pati** 
-<div align="center">
+<h1 align="center">Anshuman Pati</h1>
+<p align="center"><b>Builder  -  Learner  -  2025 was discovery  -  2026 is execution</b></p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;AI+%26+Computer+Vision+Enthusiast;Building+Digital+Experiences+%E2%9C%A8;Crafting+Tomorrow%27s+Web+Today+%F0%9F%8C%90)
+## 🧠 The Short Version (for people in a hurry)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+* BE Information Science @ DSCE ’28 (CGPA: **9.8**)
+* Full‑stack developer shipping real apps
+* Transitioning into **Machine Learning & Computer Vision**
+* Hackathons, clubs, projects — learned by doing, not watching
+* Looking for **SDE / ML Internship** roles where I can build and learn fast
 
 
-<table width="100%">
-<tr>
-<td width="60%">
+## ⚡ The Real Story
 
-## 🎭 **The Developer Behind the Code**
+I didn’t start 2025 with a master plan.
+I started with **curiosity, confusion, and a laptop**.
 
-> "Transforming ideas into elegant digital solutions, one line of code at a time"
-> 
+Somewhere between hackathons, late‑night debugging, club work, and exams, things clicked:
+I belong in tech — building things that *work*, break, and get better.
 
-🌍 **Location:** Banglore, Karnataka
+## 🛠️ What I Build
 
-💼 **Currently:** BE ISE student @ DSCE'28
+### 🌐 Full‑Stack Systems
 
-🎯 **Focus:** Full-stack development & AI-powered solutions
+* MERN & Next.js applications with real users
+* Auth, CRUD, APIs, and scalable backend thinking
 
-📧 **Reach me:** anshu799pati@gmail.com
+### 🤖 AI & Computer Vision
 
-🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/anshuman-pati-5575bb34a/)
+* Learning ML fundamentals with **scikit‑learn**
+* Building CV pipelines using **YOLOv8 + OpenCV**
+* Exploring efficiency, deployment, and real‑world constraints
 
-</td>
-<td width="40%" align="center">
-<img alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</td>
-</tr>
-</table>
+### ⚙️ How I Work
 
----
+* Build → break → fix → document
+* Prefer shipping over theory, but respect fundamentals
 
-## ⚡️ Tech Arsenal
+## 🧬 Tech I Use
 
-<div align="center">
+**Languages :**
+JavaScript · Python · C++ · C · SQL
 
-### 🎨 Frontend Magic  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Web :**
+React · Next.js · Node · Express · Tailwind · HTML · CSS
+MongoDB · Firebase
 
-### 🔧 Backend Brains  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-AA0000?style=for-the-badge&logoColor=white)
+**ML / CV :**
+scikit‑learn · OpenCV · YOLOv8 (Ultralytics) · TensorFlow · Jupyter
 
-### ☁️ Cloud & Data Storage  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Tools & Systems :**
+Docker · Git · GitHub · Linux (Ubuntu) · PyCharm · Windows
 
-### 🤖 AI & Vision Tech  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
+**Embedded :**
+Arduino · ESP32
 
-</div>
+## 🚀 Selected Projects
 
----
+### **Eventinn** — Full‑Stack MERN Platform
 
-## 🛠️ What I'm Building
+Centralized platform for discovering and hosting college events across campuses.
 
-```javascript
-const currentProjects = {
-  fullStackApps: "🔥 Powerful web platforms with MERN & Firebase",
-  aiVision: "🤖 Real-time object detection using YOLOv8 & OpenCV",
-  uiux: "📱 Polished, pixel-perfect frontend interfaces",
-  scaleReady: "🌐 Backends ready to scale with cloud-first design"
-};
-```
+🔗 [https://github.com/anshu2k24/EventInn](https://github.com/anshu2k24/EventInn)
 
----
 
-## 📊 **GitHub Analytics**
+### **VipChakra** — MERN + AI
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshu2k24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu2k24&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+Detects misinformation and identity misuse of VIPs on X using DeepFace and AI models.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshu2k24&theme=tokyonight" alt="GitHub Streak" />
-</div>
+🔗 [https://github.com/anshu2k24/VIPchakra](https://github.com/anshu2k24/VIPchakra)
 
----
 
-## 🎯 **Current Learning Path**
+### **Rock, Paper & Scissors** — Computer Vision
 
-- ⚡ **Web development**
-- 🔮 **Computer Vision Applications**  
-- 🧠 **Advanced AI/ML Techniques**
+Real‑time hand gesture recognition using YOLOv8 with webcam inference.
 
----
+🔗 [https://github.com/anshu2k24/rock-paper-scissors](https://github.com/anshu2k24/rock-paper-scissors)
 
-## 🤝 **Let's Connect & Create**
 
-<div align="center">
+### **EcoAI** — Sustainable AI Exploration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-pati-5575bb34a/)
-<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([YOUR_TWITTER_URL])-->
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([YOUR_PORTFOLIO_URL])-->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshu799pati@gmail.com)
+Exploring ways to reduce AI model carbon footprint without sacrificing performance.
 
-</div>
+🔗 [https://github.com/anshu2k24/enhanced-prompt](https://github.com/anshu2k24/enhanced-prompt)
 
----
 
-<div align="center">
+## 🏆 Achievements
 
-### 💡 *"Code is poetry, and every project is a masterpiece in progress"*
+* Hackathons: Confluence, TechTrek, CypherQuest, MakerBlitz, Recursive v2, SIH 2025, CodeUtsava 9.0
+* 🇮🇳 SIH 2025 Internal Round Qualifier
+* 🥇 Rs.500/- Appreciation Prize — MakerBlitz
+* 🔟 Top 10 — Confluence 2025
+* 🎓 Selected for CodeUtsava 9.0 (NIT Raipur)
+* 🧑‍💻 Tech Team Member — Genesis Club
+* 🎤 EMCEE — PsychMic
+* 📚 CGPA: **9.8**
 
-<!--![Profile Views](https://komarev.com/ghpvc/?username=anshu2k24&color=brightgreen&style=for-the-badge)-->
 
-<!--⭐ **From Anshuman Pati** - *Building tomorrow's web, today*-->
+## 🎯 2026 Focus
 
-</div>
+* Go deeper into **ML** beyond surface-level models
+* Build **end‑to‑end ML systems**
+* Become an intern who **adds value fast**
 
----
 
-## 🎨 **Fun Facts About Me**
+## 🤝 Let’s Talk
 
-- 🚀 I love turning complex problems into elegant solutions
-- 🎯 Always excited about the latest tech trends
-- 🌱 Constantly learning and experimenting with new technologies
-- 💡 Passionate about creating user-centric applications
-- 🤖 Fascinated by the intersection of AI and web development
-
----
-
-<div align="center">
-<h3>Thanks for stopping by! Let's build something amazing together 🚀</h3>
-</div>
+* 📫 Email: your‑[anshu799pati@gmail.com](mailto:anshu799pati@gmail.com)
+* 🔗 LinkedIn: [https://www.linkedin.com/in/anshuman-pati-5575bb34a/](https://www.linkedin.com/in/anshuman-pati-5575bb34a/)
+* 🌐 Portfolio: [https://anshumanpati.vercel.app](https://anshumanpati.vercel.app)
