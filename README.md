@@ -1,5 +1,5 @@
 <h1 align="center">Anshuman Pati</h1>
-<p align="center"><b>Builder  -  Learner  -  2025 was discovery  -  2026 is execution</b></p>
+<p align="center"><b>Builder  -  Learner</b></p>
 
 ## 🧠 The Short Version (for people in a hurry)
 
