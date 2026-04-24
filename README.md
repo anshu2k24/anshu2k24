@@ -3,9 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d1117&height=200&section=header&text=Anshuman%20Pati&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20%7C%20Full-Stack&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
 [![Email](https://img.shields.io/badge/anshu799pati@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshu799pati@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-pati-5575bb34a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu2k24/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=vercel&logoColor=white)](https://anshumanpati.vercel.app)
-
 </div>
 
 
